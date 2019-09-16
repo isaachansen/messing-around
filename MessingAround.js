@@ -1,4 +1,4 @@
-function myFunc () {
+function myFunc (age) {
     if (age >= 21) {
         return "You can drink";
     } else {
